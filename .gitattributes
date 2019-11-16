@@ -1,0 +1,14 @@
+docs/pages/landing.subjects.sub-001_ses-001_run-01_T1w.surface-parcellation.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.subjects.sub-001_ses-001_run-01_T1w.sulcal-depth.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.average.surface-parcellation.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.subjects.average.gaussian-curvature.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.subjects.sub-001_ses-001_run-01_T1w.edits.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.subjects.average.sulcal-depth.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.average.brainmask-edits-summary.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.subjects.sub-001_ses-001_run-01_T1w.gaussian-curvature.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.average.gaussian-curvature.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.subjects.average.surface-parcellation.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.subjects.sub-001_ses-001_run-01_T1w.thickness.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.average.sulcal-depth.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.subjects.average.thickness.html filter=lfs diff=lfs merge=lfs -text
+docs/pages/landing.average.thickness.html filter=lfs diff=lfs merge=lfs -text
